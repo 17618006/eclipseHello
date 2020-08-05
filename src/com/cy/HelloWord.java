@@ -2,7 +2,7 @@ package com.cy;
 
 public class HelloWord {
 	public static void main(String[] args) {
-		System.out.println("xxx");
+		System.out.println("111");
 	}
 
 }
